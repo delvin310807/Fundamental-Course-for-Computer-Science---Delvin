@@ -1,9 +1,0 @@
-BEGIN
-
-    SET a = 5
-    SET b = 3
-    SET Area = a * b
-
-    PRINT "Hasil areanya adalah", Hasil
-
-END
