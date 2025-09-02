@@ -1,9 +1,0 @@
-BEGIN
-
-    INPUT length
-    INPUT width
-    SET area = legth * width
-
-    PRINT "Hasil area adalah", area
-
-END
